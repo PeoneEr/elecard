@@ -2,5 +2,5 @@
 ### Требуется ruby >= 2.2
 ```
 bundle install
-ruby elecard_test
+ruby elecard_test.rb
 ```
